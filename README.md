@@ -1,1 +1,1 @@
-Diployed app link:-https://youtubeclone-by-saif.netlify.app/
+Deployed app link:-https://youtubeclone-by-saif.netlify.app/
